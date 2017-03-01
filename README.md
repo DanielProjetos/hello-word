@@ -139,3 +139,82 @@ ramo readme-edits(apenas neste branch), então agora o conteúdo
 deste branch está diferente do master(ramo principal).
 
  Passo 4. Abrir uma Pull Request  
+ 
+ Boas edições! Agora que você tem mudanças em um branch do master,
+você poderá abrir um pull request(solicitação de mudança).
+
+ Pull Requests são o coração da colaboração no GitHub. Quando você
+abre um pull request está propondo suas mudanças e requisitando que
+alguém reveja e use sua contribuição e junte elas aos seus branchs.
+Pull requests mostra diffs, ou diferenças, do conteúdo vindo de
+ambos os branches. As mudanças, adições, e subtrações são mostradas
+em verde e vermelho.
+
+ Assim que você fizer uma commit, você pode abrir uma pull request
+e começar uma discução, mesmo depois que o código estiver 
+terminado.
+
+ Usando o @mention system do GitHub em sua mensagem de pull 
+request, você pode perguntar por feedback(resposta sobre qualidade) de uma pessoa específica ou times, se eles estiverem
+no hall ou afastados em 10 no fuso horário.
+
+ Você pode inclusive abrir pull requests em seu próprio repositório
+e mesclá-las por si. Esse é um ótimo caminho para aprender o fluxo
+do GitHub antes de trabalhar em projetos maiores.
+
+  Abrir uma Pull Request para mudanças para o README
+
+ Passos:
+ 1. Click na aba Pull Requests, então na página Pull Request, click
+no botão verde New pull request.
+ 2. Selecione o branch que você fez, readme-edits(ou outro nome que
+você tenha dado. Ex: edições-minhas), para comparar com o master(o
+original).
+ 3. Olhe suas mudanças em diffs na página Compare, tenha certeza
+de que elas são o que você deseja submeter(ou enviar).
+ 4. Quando você estiver satisfeito que são essas mudanças que você
+deseja enviar, click no grande botão verde Create Pull Requests.
+ 5. Dê a sua pull request um título e escreva uma breve descrição
+das suas mudanças.
+
+ Quando você tiver terminado sua mensagem, click Create pull
+ request!
+
+ Dica: Você pode usar emoji e drag and drop images and gifs nos 
+comentários e Pull Requests.
+
+ 
+ Passo 5. Fundir seu Pull Request
+
+ No passo final, é hora de trazer e juntar suas mudanças - mesclar
+seus ramos readme-edits no ramo master(master branch).
+ 1. Click no botão verde Merge pull request para mesclar as 
+mudanças ao master.
+ 2. Click Confirm merge.
+ 3. Vá em frente e delete o branch, desde que as suas mudanças
+tenham sido incorporadas, com o botão Delete branch na caixa roxa.
+ 
+
+ Celebre!
+
+ Ao completar este tutorial, você aprendeu a criar um projeto e 
+realizar pull requests no GitHub!
+
+ Aqui está o que você completou nesse tutorial:
+ Criar um repositório de fonte aberta(open source);
+ Começar e gerenciar um novo branch;
+ Mudar um arquivo e comitar suas mudanças para o GitHub;
+ Abrir e mesclar uma Pull Request;
+
+ Dê uma olhadano seu perfil GitHub e você verá seu novo quadro
+de contribuições!
+
+
+ Para aprender mais sobre o poder das Pull Requests, nós 
+recomendamos ler o GitHub Flow Guide. Você igualmente talvez visite
+ GitHub Explore e se envolva em um projeto Open Source.
+
+ Dica: Dê uma olhada em nossos outros Guias, canal do YouTube e
+On-Demand Training(treinamento sob demanda) para mais em how to 
+get started with GitHub(como começar com GitHub).
+ 
