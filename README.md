@@ -1,8 +1,5 @@
 # Tutorial Do GitHub Em Português
 
-        Tutorial Do GitHub Em Português
-
-
           O que é GitHub?
 
  GitHub é uma plataforma de hospedagem de códigos para controle
@@ -216,5 +213,6 @@ get started with GitHub(como começar com GitHub).
 
 
 tutorial original em inglês https://guides.github.com/activities/hello-world/
+
 tradução: DanielProjetos
  
