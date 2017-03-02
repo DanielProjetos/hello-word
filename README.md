@@ -6,7 +6,7 @@ vamos verificar a seguir se a recíproca é verdadeira.
 A seguir o tutorial oficial com as principais funcionalidades do GitHub.
 
 
-   O que é GitHub?
+          O que é GitHub?
 
  GitHub é uma plataforma de hospedagem de códigos para controle
 de versão e colaboração. Isso permite que você e outros trablalhem
@@ -31,7 +31,7 @@ do GitHub).
 poderá ver isso enquanto completa os passos do tutorial.
 
 
-   Passo 1. Crie um Repositório
+         Passo 1. Crie um Repositório
    
  O repositório é usualmente usado para organizar um projeto simples.
 Repositorios podem conter pastas e arquivos, imagens, vídeos, 
@@ -60,7 +60,7 @@ Observação: Para criar repositórios privados é necessário pagar
 uma taxa de U$7 (sete dólares) por mês.
 
  
- Passo 2. Crie um Branch
+          Passo 2. Crie um Branch
 
  Branching é um caminho para trabalhar em diferentes versões de um
 repositório por vez.
@@ -112,7 +112,7 @@ parecem exatamente a mesma coisa, porém não por muito tempo! A
 seguir nós iremos adicionar nossas alterações ao novo branch.
 
 
-   Passo 3. Fazer e comitar mudanças
+          Passo 3. Fazer e comitar mudanças
 
  Bravo! Agora, você dentro da visualização do seu branch
 readme-edições, o qual é uma cópia do master. Vamos fazer algumas
@@ -137,7 +137,7 @@ porque.
 ramo readme-edits(apenas neste branch), então agora o conteúdo
 deste branch está diferente do master(ramo principal).
 
- Passo 4. Abrir uma Pull Request  
+          Passo 4. Abrir uma Pull Request  
  
  Boas edições! Agora que você tem mudanças em um branch do master,
 você poderá abrir um pull request(solicitação de mudança).
@@ -183,7 +183,7 @@ das suas mudanças.
 comentários e Pull Requests.
 
  
- Passo 5. Fundir seu Pull Request
+          Passo 5. Fundir seu Pull Request
 
  No passo final, é hora de trazer e juntar suas mudanças - mesclar
 seus ramos readme-edits no ramo master(master branch).
