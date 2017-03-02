@@ -1,9 +1,6 @@
 # Tutorial Do GitHub Em Português
-Tutorial Do GitHub
 
-O GitHub aparentemente não é difícil de utilizar,
-vamos verificar a seguir se a recíproca é verdadeira.
-A seguir o tutorial oficial com as principais funcionalidades do GitHub.
+        Tutorial Do GitHub Em Português
 
 
           O que é GitHub?
@@ -216,4 +213,8 @@ recomendamos ler o GitHub Flow Guide. Você igualmente talvez visite
  Dica: Dê uma olhada em nossos outros Guias, canal do YouTube e
 On-Demand Training(treinamento sob demanda) para mais em how to 
 get started with GitHub(como começar com GitHub).
+
+
+tutorial original em inglês https://guides.github.com/activities/hello-world/
+tradução: DanielProjetos
  
