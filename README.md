@@ -176,7 +176,7 @@ das suas mudanças.
  Quando você tiver terminado sua mensagem, click Create pull
  request!
 
- Dica: Você pode usar emoji e drag and drop images and gifs nos 
+ Dica: Você pode usar emoji e rastar e soltar imagesn e gifs nos 
 comentários e Pull Requests.
 
  
